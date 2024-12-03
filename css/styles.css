@@ -417,7 +417,7 @@ footer {
 }
 
 /* Responsividad para pantallas medianas (tablets) */
-@media (max-width: 1150px) {
+@media (max-width: 1200px) {
     header nav{
         justify-content:left;
     }
