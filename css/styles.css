@@ -507,6 +507,10 @@ footer {
         height: 120px;
     }
 
+    .intro-text {
+        text-align: center;
+    }
+
     .experience-cards {
         flex-direction: column;
     }
